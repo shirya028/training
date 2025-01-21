@@ -1,0 +1,1 @@
+The task for today (21-01-2025) is to create a resume using the html tags learnt.
